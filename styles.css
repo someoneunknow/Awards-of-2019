@@ -1,0 +1,23 @@
+p{
+    text-align:center;
+    font-size:150%;
+    font-style:oblique;
+    color:lime;
+}
+h1{
+    text-align:center;
+    font-size:250%;
+    font-style:italic;
+    color:white;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+}
+body{
+    background-image: url("https://ikimaru.com/image/22556-full_black-cool-wallpaper-hd-for-desktop-background-1920x1080-px.jpg");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
